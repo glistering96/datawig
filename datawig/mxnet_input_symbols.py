@@ -103,10 +103,10 @@ class LSTMFeaturizer(Featurizer):
     def __init__(self,
                  field_name: str,
                  seq_len: int = 500,
-                 max_tokens: int = 40,
+                 max_tokens: int = 200,
                  embed_dim: int = 50,
                  num_hidden: int = 50,
-                 num_layers: int = 2,
+                 num_layers: int = 3,
                  latent_dim: int = 50,
                  use_gpu: bool = False if mx.cpu() in get_context() else True) -> None:
         super(LSTMFeaturizer, self).__init__(field_name, latent_dim)
