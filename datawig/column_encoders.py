@@ -439,7 +439,7 @@ class TfIdfEncoder(ColumnEncoder):
     def __init__(self,
                  input_columns: Any,
                  output_column: str = None,
-                 max_tokens: int = 2 ** 18,
+                 max_tokens: int = 2 ** 12,
                  tokens: str = 'chars',
                  ngram_range: tuple = None,
                  prefixed_concatenation: bool = True) -> None:
@@ -682,7 +682,9 @@ class NumericalEncoder(ColumnEncoder):
         """
         if not isinstance(data_frame, pd.core.frame.DataFrame):
             raise ValueError("Only pandas data frames are supported")
-
+        
+        data_frame = data_frame.copy()
+        
         mean = data_frame[self.input_columns].mean()
         data_frame[self.input_columns] = data_frame[self.input_columns].fillna(mean)
         self.scaler = StandardScaler().fit(data_frame[self.input_columns].values)
