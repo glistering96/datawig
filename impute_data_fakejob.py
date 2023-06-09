@@ -4,6 +4,11 @@ from datawig.mxnet_input_symbols import LSTMFeaturizer, EmbeddingFeaturizer, Bow
 import pandas as pd
 import os
 
+# ignore  UndefinedMetricWarning
+import warnings
+from sklearn.exceptions import UndefinedMetricWarning
+warnings.filterwarnings("ignore", category=UndefinedMetricWarning)
+
 BASEDIR = os.path.dirname(os.path.abspath(__file__))
 
 
@@ -55,7 +60,7 @@ def preprocess():
 def impute_train_whole(df, target_col_nm, token, chained):
     input_columns = list(set(df.columns) - set(target_col_nm))
     debug_str = ''
-    epochs = 200
+    epochs = 300
     
     
     imputer = SimpleImputer(input_columns=input_columns,
@@ -64,7 +69,7 @@ def impute_train_whole(df, target_col_nm, token, chained):
                                     output_path=f'{BASEDIR}/imputer/{debug_str}/{token}/{chained}/{target_col_nm}'
                                     )
 
-    imputer.fit(train_df=df, num_epochs=epochs, batch_size=512*2)
+    imputer.fit(train_df=df, num_epochs=epochs, batch_size=1024*2, patience=10)
 
     imputed = imputer.predict(df)
 
@@ -101,7 +106,7 @@ def run_impute(df, token, chained):
     final_df = df.copy(deep=True)
 
     for k, v in impute_result.items():
-        final_df[k] = v[k]
+        final_df[k] = final_df[k].fillna(v[f'{k}_imputed'])
 
     path = f'./data/imputed/{token}/{chained_nm}'
     
