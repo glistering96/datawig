@@ -1,0 +1,169 @@
+2023-06-09 12:45:42,513 [INFO]  
+========== start: fit model
+2023-06-09 12:45:42,513 [WARNING]  Already bound, ignoring bind()
+2023-06-09 12:45:43,743 [INFO]  Epoch[0] Batch [0-7]	Speed: 5835.16 samples/sec	cross-entropy=1.227147	employment_type-accuracy=0.714600
+2023-06-09 12:45:44,407 [INFO]  Epoch[0] Train-cross-entropy=0.678604
+2023-06-09 12:45:44,407 [INFO]  Epoch[0] Train-employment_type-accuracy=0.829492
+2023-06-09 12:45:44,407 [INFO]  Epoch[0] Time cost=1.893
+2023-06-09 12:45:44,408 [INFO]  Epoch[0] Average Speed: 10003.138 samples/sec
+2023-06-09 12:45:44,412 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0000.params"
+2023-06-09 12:45:44,572 [INFO]  Epoch[0] Validation-cross-entropy=0.497461
+2023-06-09 12:45:44,572 [INFO]  Epoch[0] Validation-employment_type-accuracy=0.857910
+2023-06-09 12:45:45,622 [INFO]  Epoch[1] Batch [0-7]	Speed: 7795.46 samples/sec	cross-entropy=0.655663	employment_type-accuracy=0.825928
+2023-06-09 12:45:46,275 [INFO]  Epoch[1] Train-cross-entropy=0.567703
+2023-06-09 12:45:46,275 [INFO]  Epoch[1] Train-employment_type-accuracy=0.866211
+2023-06-09 12:45:46,275 [INFO]  Epoch[1] Time cost=1.703
+2023-06-09 12:45:46,275 [INFO]  Epoch[1] Average Speed: 13363.651 samples/sec
+2023-06-09 12:45:46,278 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0001.params"
+2023-06-09 12:45:46,431 [INFO]  Epoch[1] Validation-cross-entropy=0.427046
+2023-06-09 12:45:46,431 [INFO]  Epoch[1] Validation-employment_type-accuracy=0.888184
+2023-06-09 12:45:47,480 [INFO]  Epoch[2] Batch [0-7]	Speed: 7706.57 samples/sec	cross-entropy=0.567331	employment_type-accuracy=0.854126
+2023-06-09 12:45:48,149 [INFO]  Epoch[2] Train-cross-entropy=0.508351
+2023-06-09 12:45:48,150 [INFO]  Epoch[2] Train-employment_type-accuracy=0.870703
+2023-06-09 12:45:48,150 [INFO]  Epoch[2] Time cost=1.719
+2023-06-09 12:45:48,150 [INFO]  Epoch[2] Average Speed: 13211.260 samples/sec
+2023-06-09 12:45:48,152 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0002.params"
+2023-06-09 12:45:48,301 [INFO]  Epoch[2] Validation-cross-entropy=0.390480
+2023-06-09 12:45:48,301 [INFO]  Epoch[2] Validation-employment_type-accuracy=0.896973
+2023-06-09 12:45:49,347 [INFO]  Epoch[3] Batch [0-7]	Speed: 7826.62 samples/sec	cross-entropy=0.526443	employment_type-accuracy=0.854736
+2023-06-09 12:45:50,011 [INFO]  Epoch[3] Train-cross-entropy=0.469493
+2023-06-09 12:45:50,011 [INFO]  Epoch[3] Train-employment_type-accuracy=0.870703
+2023-06-09 12:45:50,011 [INFO]  Epoch[3] Time cost=1.710
+2023-06-09 12:45:50,011 [INFO]  Epoch[3] Average Speed: 13417.056 samples/sec
+2023-06-09 12:45:50,014 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0003.params"
+2023-06-09 12:45:50,146 [INFO]  Epoch[3] Validation-cross-entropy=0.373327
+2023-06-09 12:45:50,146 [INFO]  Epoch[3] Validation-employment_type-accuracy=0.896973
+2023-06-09 12:45:51,181 [INFO]  Epoch[4] Batch [0-7]	Speed: 7832.49 samples/sec	cross-entropy=0.492959	employment_type-accuracy=0.855225
+2023-06-09 12:45:51,857 [INFO]  Epoch[4] Train-cross-entropy=0.444409
+2023-06-09 12:45:51,857 [INFO]  Epoch[4] Train-employment_type-accuracy=0.871484
+2023-06-09 12:45:51,857 [INFO]  Epoch[4] Time cost=1.711
+2023-06-09 12:45:51,857 [INFO]  Epoch[4] Average Speed: 13427.126 samples/sec
+2023-06-09 12:45:51,861 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0004.params"
+2023-06-09 12:45:52,016 [INFO]  Epoch[4] Validation-cross-entropy=0.361322
+2023-06-09 12:45:52,016 [INFO]  Epoch[4] Validation-employment_type-accuracy=0.896973
+2023-06-09 12:45:53,085 [INFO]  Epoch[5] Batch [0-7]	Speed: 7772.51 samples/sec	cross-entropy=0.470474	employment_type-accuracy=0.856934
+2023-06-09 12:45:53,742 [INFO]  Epoch[5] Train-cross-entropy=0.423933
+2023-06-09 12:45:53,743 [INFO]  Epoch[5] Train-employment_type-accuracy=0.873633
+2023-06-09 12:45:53,743 [INFO]  Epoch[5] Time cost=1.726
+2023-06-09 12:45:53,743 [INFO]  Epoch[5] Average Speed: 13324.301 samples/sec
+2023-06-09 12:45:53,750 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0005.params"
+2023-06-09 12:45:53,899 [INFO]  Epoch[5] Validation-cross-entropy=0.349523
+2023-06-09 12:45:53,899 [INFO]  Epoch[5] Validation-employment_type-accuracy=0.898926
+2023-06-09 12:45:54,948 [INFO]  Epoch[6] Batch [0-7]	Speed: 7812.91 samples/sec	cross-entropy=0.450204	employment_type-accuracy=0.860352
+2023-06-09 12:45:55,613 [INFO]  Epoch[6] Train-cross-entropy=0.406445
+2023-06-09 12:45:55,613 [INFO]  Epoch[6] Train-employment_type-accuracy=0.874023
+2023-06-09 12:45:55,613 [INFO]  Epoch[6] Time cost=1.714
+2023-06-09 12:45:55,613 [INFO]  Epoch[6] Average Speed: 13393.563 samples/sec
+2023-06-09 12:45:55,616 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0006.params"
+2023-06-09 12:45:55,763 [INFO]  Epoch[6] Validation-cross-entropy=0.338665
+2023-06-09 12:45:55,763 [INFO]  Epoch[6] Validation-employment_type-accuracy=0.900391
+2023-06-09 12:45:56,829 [INFO]  Epoch[7] Batch [0-7]	Speed: 7689.83 samples/sec	cross-entropy=0.431912	employment_type-accuracy=0.861328
+2023-06-09 12:45:57,499 [INFO]  Epoch[7] Train-cross-entropy=0.390374
+2023-06-09 12:45:57,499 [INFO]  Epoch[7] Train-employment_type-accuracy=0.876367
+2023-06-09 12:45:57,499 [INFO]  Epoch[7] Time cost=1.735
+2023-06-09 12:45:57,499 [INFO]  Epoch[7] Average Speed: 13182.561 samples/sec
+2023-06-09 12:45:57,504 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0007.params"
+2023-06-09 12:45:57,650 [INFO]  Epoch[7] Validation-cross-entropy=0.329467
+2023-06-09 12:45:57,650 [INFO]  Epoch[7] Validation-employment_type-accuracy=0.902344
+2023-06-09 12:45:58,696 [INFO]  Epoch[8] Batch [0-7]	Speed: 7805.60 samples/sec	cross-entropy=0.415463	employment_type-accuracy=0.864380
+2023-06-09 12:45:59,348 [INFO]  Epoch[8] Train-cross-entropy=0.375488
+2023-06-09 12:45:59,348 [INFO]  Epoch[8] Train-employment_type-accuracy=0.878125
+2023-06-09 12:45:59,348 [INFO]  Epoch[8] Time cost=1.698
+2023-06-09 12:45:59,348 [INFO]  Epoch[8] Average Speed: 13381.034 samples/sec
+2023-06-09 12:45:59,351 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0008.params"
+2023-06-09 12:45:59,498 [INFO]  Epoch[8] Validation-cross-entropy=0.321388
+2023-06-09 12:45:59,498 [INFO]  Epoch[8] Validation-employment_type-accuracy=0.904297
+2023-06-09 12:46:00,562 [INFO]  Epoch[9] Batch [0-7]	Speed: 7682.88 samples/sec	cross-entropy=0.400218	employment_type-accuracy=0.868652
+2023-06-09 12:46:01,215 [INFO]  Epoch[9] Train-cross-entropy=0.361761
+2023-06-09 12:46:01,215 [INFO]  Epoch[9] Train-employment_type-accuracy=0.882031
+2023-06-09 12:46:01,215 [INFO]  Epoch[9] Time cost=1.717
+2023-06-09 12:46:01,215 [INFO]  Epoch[9] Average Speed: 13170.652 samples/sec
+2023-06-09 12:46:01,219 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0009.params"
+2023-06-09 12:46:01,364 [INFO]  Epoch[9] Validation-cross-entropy=0.313428
+2023-06-09 12:46:01,364 [INFO]  Epoch[9] Validation-employment_type-accuracy=0.908203
+2023-06-09 12:46:01,364 [INFO]  
+========== done (18.851691007614136 s) fit model
+2023-06-09 13:08:21,000 [INFO]  
+========== start: fit model
+2023-06-09 13:08:21,001 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:08:22,160 [INFO]  Epoch[0] Batch [0-7]	Speed: 6193.59 samples/sec	cross-entropy=1.233963	employment_type-accuracy=0.720581
+2023-06-09 13:08:22,829 [INFO]  Epoch[0] Train-cross-entropy=0.684887
+2023-06-09 13:08:22,829 [INFO]  Epoch[0] Train-employment_type-accuracy=0.866016
+2023-06-09 13:08:22,829 [INFO]  Epoch[0] Time cost=1.826
+2023-06-09 13:08:22,829 [INFO]  Epoch[0] Average Speed: 10617.583 samples/sec
+2023-06-09 13:08:22,835 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0000.params"
+2023-06-09 13:08:22,980 [INFO]  Epoch[0] Validation-cross-entropy=0.534858
+2023-06-09 13:08:22,980 [INFO]  Epoch[0] Validation-employment_type-accuracy=0.893555
+2023-06-09 13:08:24,030 [INFO]  Epoch[1] Batch [0-7]	Speed: 7788.74 samples/sec	cross-entropy=0.638981	employment_type-accuracy=0.851318
+2023-06-09 13:08:24,681 [INFO]  Epoch[1] Train-cross-entropy=0.560960
+2023-06-09 13:08:24,681 [INFO]  Epoch[1] Train-employment_type-accuracy=0.865820
+2023-06-09 13:08:24,681 [INFO]  Epoch[1] Time cost=1.701
+2023-06-09 13:08:24,681 [INFO]  Epoch[1] Average Speed: 13352.126 samples/sec
+2023-06-09 13:08:24,686 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0001.params"
+2023-06-09 13:08:24,830 [INFO]  Epoch[1] Validation-cross-entropy=0.434298
+2023-06-09 13:08:24,830 [INFO]  Epoch[1] Validation-employment_type-accuracy=0.895508
+2023-06-09 13:08:24,830 [INFO]  
+========== done (3.8297932147979736 s) fit model
+2023-06-09 13:29:06,356 [INFO]  
+========== start: fit model
+2023-06-09 13:29:06,357 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:29:07,510 [INFO]  Epoch[0] Batch [0-7]	Speed: 6224.66 samples/sec	cross-entropy=1.228229	employment_type-accuracy=0.713623
+2023-06-09 13:29:08,173 [INFO]  Epoch[0] Train-cross-entropy=0.690761
+2023-06-09 13:29:08,173 [INFO]  Epoch[0] Train-employment_type-accuracy=0.863867
+2023-06-09 13:29:08,173 [INFO]  Epoch[0] Time cost=1.815
+2023-06-09 13:29:08,173 [INFO]  Epoch[0] Average Speed: 10670.843 samples/sec
+2023-06-09 13:29:08,180 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0000.params"
+2023-06-09 13:29:08,326 [INFO]  Epoch[0] Validation-cross-entropy=0.539971
+2023-06-09 13:29:08,326 [INFO]  Epoch[0] Validation-employment_type-accuracy=0.893555
+2023-06-09 13:29:09,425 [INFO]  Epoch[1] Batch [0-7]	Speed: 7407.82 samples/sec	cross-entropy=0.646525	employment_type-accuracy=0.851196
+2023-06-09 13:29:10,089 [INFO]  Epoch[1] Train-cross-entropy=0.570431
+2023-06-09 13:29:10,089 [INFO]  Epoch[1] Train-employment_type-accuracy=0.866602
+2023-06-09 13:29:10,089 [INFO]  Epoch[1] Time cost=1.763
+2023-06-09 13:29:10,089 [INFO]  Epoch[1] Average Speed: 12699.120 samples/sec
+2023-06-09 13:29:10,095 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0001.params"
+2023-06-09 13:29:10,234 [INFO]  Epoch[1] Validation-cross-entropy=0.436675
+2023-06-09 13:29:10,234 [INFO]  Epoch[1] Validation-employment_type-accuracy=0.896484
+2023-06-09 13:29:10,234 [INFO]  
+========== done (3.877272844314575 s) fit model
+2023-06-09 13:37:53,685 [INFO]  
+========== start: fit model
+2023-06-09 13:37:53,686 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:37:55,045 [INFO]  Epoch[0] Batch [0-7]	Speed: 5277.40 samples/sec	cross-entropy=1.232390	employment_type-accuracy=0.714844
+2023-06-09 13:37:55,853 [INFO]  Epoch[0] Train-cross-entropy=0.685432
+2023-06-09 13:37:55,853 [INFO]  Epoch[0] Train-employment_type-accuracy=0.866016
+2023-06-09 13:37:55,853 [INFO]  Epoch[0] Time cost=2.167
+2023-06-09 13:37:55,853 [INFO]  Epoch[0] Average Speed: 9046.965 samples/sec
+2023-06-09 13:37:55,861 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0000.params"
+2023-06-09 13:37:56,044 [INFO]  Epoch[0] Validation-cross-entropy=0.536652
+2023-06-09 13:37:56,044 [INFO]  Epoch[0] Validation-employment_type-accuracy=0.893555
+2023-06-09 13:37:57,296 [INFO]  Epoch[1] Batch [0-7]	Speed: 6525.70 samples/sec	cross-entropy=0.639252	employment_type-accuracy=0.850952
+2023-06-09 13:37:58,104 [INFO]  Epoch[1] Train-cross-entropy=0.561513
+2023-06-09 13:37:58,104 [INFO]  Epoch[1] Train-employment_type-accuracy=0.864258
+2023-06-09 13:37:58,104 [INFO]  Epoch[1] Time cost=2.059
+2023-06-09 13:37:58,104 [INFO]  Epoch[1] Average Speed: 11186.908 samples/sec
+2023-06-09 13:37:58,111 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0001.params"
+2023-06-09 13:37:58,287 [INFO]  Epoch[1] Validation-cross-entropy=0.434524
+2023-06-09 13:37:58,287 [INFO]  Epoch[1] Validation-employment_type-accuracy=0.895020
+2023-06-09 13:37:58,287 [INFO]  
+========== done (4.601875066757202 s) fit model
+2023-06-09 13:50:13,890 [INFO]  
+========== start: fit model
+2023-06-09 13:50:13,891 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:50:15,238 [INFO]  Epoch[0] Batch [0-7]	Speed: 5325.63 samples/sec	cross-entropy=1.232193	employment_type-accuracy=0.758179
+2023-06-09 13:50:16,031 [INFO]  Epoch[0] Train-cross-entropy=0.675207
+2023-06-09 13:50:16,031 [INFO]  Epoch[0] Train-employment_type-accuracy=0.860742
+2023-06-09 13:50:16,031 [INFO]  Epoch[0] Time cost=2.139
+2023-06-09 13:50:16,031 [INFO]  Epoch[0] Average Speed: 9129.652 samples/sec
+2023-06-09 13:50:16,033 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0000.params"
+2023-06-09 13:50:16,223 [INFO]  Epoch[0] Validation-cross-entropy=0.512874
+2023-06-09 13:50:16,223 [INFO]  Epoch[0] Validation-employment_type-accuracy=0.893555
+2023-06-09 13:50:17,474 [INFO]  Epoch[1] Batch [0-7]	Speed: 6553.50 samples/sec	cross-entropy=0.638677	employment_type-accuracy=0.851196
+2023-06-09 13:50:18,290 [INFO]  Epoch[1] Train-cross-entropy=0.566423
+2023-06-09 13:50:18,290 [INFO]  Epoch[1] Train-employment_type-accuracy=0.867188
+2023-06-09 13:50:18,290 [INFO]  Epoch[1] Time cost=2.068
+2023-06-09 13:50:18,290 [INFO]  Epoch[1] Average Speed: 11234.576 samples/sec
+2023-06-09 13:50:18,297 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/employment_type/model-0001.params"
+2023-06-09 13:50:18,479 [INFO]  Epoch[1] Validation-cross-entropy=0.431942
+2023-06-09 13:50:18,479 [INFO]  Epoch[1] Validation-employment_type-accuracy=0.890625
+2023-06-09 13:50:18,479 [INFO]  
+========== done (4.58886194229126 s) fit model

@@ -1,0 +1,300 @@
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 99 occurrences of value Human Resources
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 91 occurrences of value Legal Services
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 89 occurrences of value Apparel & Fashion
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 88 occurrences of value Online Media
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 84 occurrences of value Facilities Services
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 79 occurrences of value Hospitality
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 78 occurrences of value Banking
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 76 occurrences of value Computer Games
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 74 occurrences of value Building Materials
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Nonprofit Organization Management
+2023-06-09 13:32:43,982 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Leisure, Travel & Tourism
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 68 occurrences of value Entertainment
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 65 occurrences of value Electrical/Electronic Manufacturing
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 62 occurrences of value Food & Beverages
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 60 occurrences of value Cosmetics
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Electronics
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Airlines/Aviation
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Goods
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 54 occurrences of value Medical Practice
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 53 occurrences of value Public Relations and Communications
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 50 occurrences of value Civic & Social Organization
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 48 occurrences of value Warehousing
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Computer & Network Security
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Events Services
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Restaurants
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 46 occurrences of value Media Production
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Market Research
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Environmental Services
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Transportation/Trucking/Railroad
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 44 occurrences of value Broadcast Media
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 41 occurrences of value Computer Networking
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 39 occurrences of value Food Production
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Gambling & Casinos
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Pharmaceuticals
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 36 occurrences of value Biotechnology
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Publishing
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Mechanical or Industrial Engineering
+2023-06-09 13:32:43,983 [INFO]  CategoricalEncoder for column industry                                found only 31 occurrences of value Computer Hardware
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Graphic Design
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Security and Investigations
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 27 occurrences of value Information Services
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Research
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Printing
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Venture Capital & Private Equity
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Utilities
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 23 occurrences of value Farming
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 21 occurrences of value Government Administration
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Outsourcing/Offshoring
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Sports
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Aviation & Aerospace
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Mental Health Care
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Medical Devices
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Law Practice
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 17 occurrences of value Writing and Editing
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Business Supplies and Equipment
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Chemicals
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 14 occurrences of value Fund-Raising
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 13 occurrences of value Professional Training & Coaching
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 11 occurrences of value Higher Education
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Wholesale
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Government Relations
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Semiconductors
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Music
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Defense & Space
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Architecture & Planning
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Translation and Localization
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Program Development
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Veterinary
+2023-06-09 13:32:43,984 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Machinery
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Law Enforcement
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Renewables & Environment
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value International Trade and Development
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Individual & Family Services
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Civil Engineering
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Public Safety
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Executive Office
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Photography
+2023-06-09 13:32:43,985 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Primary/Secondary Education
+2023-06-09 13:32:57,828 [WARNING]  Test set does not contain any ocurrences of values [Program Development, Higher Education, Public Safety, Outsourcing/Offshoring, Veterinary, Defense & Space, Primary/Secondary Education] in column [industry], consider using a more representative test set.
+2023-06-09 13:32:57,832 [INFO]  
+========== start: fit model
+2023-06-09 13:32:57,832 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:32:58,767 [INFO]  Epoch[0] Batch [0-6]	Speed: 6578.92 samples/sec	cross-entropy=4.203167	industry-accuracy=0.228376
+2023-06-09 13:32:59,408 [INFO]  Epoch[0] Train-cross-entropy=3.908993
+2023-06-09 13:32:59,408 [INFO]  Epoch[0] Train-industry-accuracy=0.235937
+2023-06-09 13:32:59,408 [INFO]  Epoch[0] Time cost=1.576
+2023-06-09 13:32:59,408 [INFO]  Epoch[0] Average Speed: 12061.358 samples/sec
+2023-06-09 13:32:59,420 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0000.params"
+2023-06-09 13:32:59,567 [INFO]  Epoch[0] Validation-cross-entropy=3.161519
+2023-06-09 13:32:59,567 [INFO]  Epoch[0] Validation-industry-accuracy=0.537109
+2023-06-09 13:33:00,450 [INFO]  Epoch[1] Batch [0-6]	Speed: 8170.64 samples/sec	cross-entropy=3.349334	industry-accuracy=0.287109
+2023-06-09 13:33:01,069 [INFO]  Epoch[1] Train-cross-entropy=3.495247
+2023-06-09 13:33:01,070 [INFO]  Epoch[1] Train-industry-accuracy=0.235937
+2023-06-09 13:33:01,070 [INFO]  Epoch[1] Time cost=1.502
+2023-06-09 13:33:01,070 [INFO]  Epoch[1] Average Speed: 14979.510 samples/sec
+2023-06-09 13:33:01,081 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0001.params"
+2023-06-09 13:33:01,215 [INFO]  Epoch[1] Validation-cross-entropy=2.694318
+2023-06-09 13:33:01,215 [INFO]  Epoch[1] Validation-industry-accuracy=0.547363
+2023-06-09 13:33:01,215 [INFO]  
+========== done (3.3833630084991455 s) fit model
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 99 occurrences of value Human Resources
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 91 occurrences of value Legal Services
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 89 occurrences of value Apparel & Fashion
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 88 occurrences of value Online Media
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 84 occurrences of value Facilities Services
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 79 occurrences of value Hospitality
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 78 occurrences of value Banking
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 76 occurrences of value Computer Games
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 74 occurrences of value Building Materials
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Nonprofit Organization Management
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Leisure, Travel & Tourism
+2023-06-09 13:40:15,239 [INFO]  CategoricalEncoder for column industry                                found only 68 occurrences of value Entertainment
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 65 occurrences of value Electrical/Electronic Manufacturing
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 62 occurrences of value Food & Beverages
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 60 occurrences of value Cosmetics
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Electronics
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Airlines/Aviation
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Goods
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 54 occurrences of value Medical Practice
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 53 occurrences of value Public Relations and Communications
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 50 occurrences of value Civic & Social Organization
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 48 occurrences of value Warehousing
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Computer & Network Security
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Events Services
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Restaurants
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 46 occurrences of value Media Production
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Market Research
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Environmental Services
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Transportation/Trucking/Railroad
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 44 occurrences of value Broadcast Media
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 41 occurrences of value Computer Networking
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 39 occurrences of value Food Production
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Gambling & Casinos
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Pharmaceuticals
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 36 occurrences of value Biotechnology
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Publishing
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Mechanical or Industrial Engineering
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 31 occurrences of value Computer Hardware
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Graphic Design
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Security and Investigations
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 27 occurrences of value Information Services
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Research
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Printing
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Venture Capital & Private Equity
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Utilities
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 23 occurrences of value Farming
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 21 occurrences of value Government Administration
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Outsourcing/Offshoring
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Sports
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Aviation & Aerospace
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Mental Health Care
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Medical Devices
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Law Practice
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 17 occurrences of value Writing and Editing
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Business Supplies and Equipment
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Chemicals
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 14 occurrences of value Fund-Raising
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 13 occurrences of value Professional Training & Coaching
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 11 occurrences of value Higher Education
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Wholesale
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Government Relations
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Semiconductors
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Music
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Defense & Space
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Architecture & Planning
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Translation and Localization
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Program Development
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Veterinary
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Machinery
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Law Enforcement
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Renewables & Environment
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value International Trade and Development
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Individual & Family Services
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Civil Engineering
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Public Safety
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Executive Office
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Photography
+2023-06-09 13:40:15,240 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Primary/Secondary Education
+2023-06-09 13:40:23,302 [WARNING]  Test set does not contain any ocurrences of values [Public Safety, Outsourcing/Offshoring, Program Development, Higher Education, Defense & Space, Veterinary, Primary/Secondary Education] in column [industry], consider using a more representative test set.
+2023-06-09 13:40:23,305 [INFO]  
+========== start: fit model
+2023-06-09 13:40:23,305 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:40:24,434 [INFO]  Epoch[0] Batch [0-6]	Speed: 5445.32 samples/sec	cross-entropy=4.213647	industry-accuracy=0.203125
+2023-06-09 13:40:25,209 [INFO]  Epoch[0] Train-cross-entropy=3.916175
+2023-06-09 13:40:25,209 [INFO]  Epoch[0] Train-industry-accuracy=0.230859
+2023-06-09 13:40:25,209 [INFO]  Epoch[0] Time cost=1.903
+2023-06-09 13:40:25,209 [INFO]  Epoch[0] Average Speed: 9983.083 samples/sec
+2023-06-09 13:40:25,222 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0000.params"
+2023-06-09 13:40:25,435 [INFO]  Epoch[0] Validation-cross-entropy=3.183305
+2023-06-09 13:40:25,435 [INFO]  Epoch[0] Validation-industry-accuracy=0.536133
+2023-06-09 13:40:26,532 [INFO]  Epoch[1] Batch [0-6]	Speed: 6808.54 samples/sec	cross-entropy=3.377122	industry-accuracy=0.281948
+2023-06-09 13:40:27,343 [INFO]  Epoch[1] Train-cross-entropy=3.490792
+2023-06-09 13:40:27,343 [INFO]  Epoch[1] Train-industry-accuracy=0.238281
+2023-06-09 13:40:27,343 [INFO]  Epoch[1] Time cost=1.908
+2023-06-09 13:40:27,343 [INFO]  Epoch[1] Average Speed: 12482.332 samples/sec
+2023-06-09 13:40:27,356 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0001.params"
+2023-06-09 13:40:27,528 [INFO]  Epoch[1] Validation-cross-entropy=2.698816
+2023-06-09 13:40:27,528 [INFO]  Epoch[1] Validation-industry-accuracy=0.541016
+2023-06-09 13:40:27,528 [INFO]  
+========== done (4.222553253173828 s) fit model
+2023-06-09 13:52:37,628 [INFO]  CategoricalEncoder for column industry                                found only 99 occurrences of value Human Resources
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 91 occurrences of value Legal Services
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 89 occurrences of value Apparel & Fashion
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 88 occurrences of value Online Media
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 84 occurrences of value Facilities Services
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 79 occurrences of value Hospitality
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 78 occurrences of value Banking
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 76 occurrences of value Computer Games
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 74 occurrences of value Building Materials
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Nonprofit Organization Management
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 71 occurrences of value Leisure, Travel & Tourism
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 68 occurrences of value Entertainment
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 65 occurrences of value Electrical/Electronic Manufacturing
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 62 occurrences of value Food & Beverages
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 60 occurrences of value Cosmetics
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Electronics
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Airlines/Aviation
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 56 occurrences of value Consumer Goods
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 54 occurrences of value Medical Practice
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 53 occurrences of value Public Relations and Communications
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 50 occurrences of value Civic & Social Organization
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 48 occurrences of value Warehousing
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Computer & Network Security
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Events Services
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 47 occurrences of value Restaurants
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 46 occurrences of value Media Production
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Market Research
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Environmental Services
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 45 occurrences of value Transportation/Trucking/Railroad
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 44 occurrences of value Broadcast Media
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 41 occurrences of value Computer Networking
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 39 occurrences of value Food Production
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Gambling & Casinos
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 38 occurrences of value Pharmaceuticals
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 36 occurrences of value Biotechnology
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Publishing
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 34 occurrences of value Mechanical or Industrial Engineering
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 31 occurrences of value Computer Hardware
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Graphic Design
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 29 occurrences of value Security and Investigations
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 27 occurrences of value Information Services
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Research
+2023-06-09 13:52:37,629 [INFO]  CategoricalEncoder for column industry                                found only 26 occurrences of value Printing
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Venture Capital & Private Equity
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 24 occurrences of value Utilities
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 23 occurrences of value Farming
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 21 occurrences of value Government Administration
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Outsourcing/Offshoring
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Sports
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 19 occurrences of value Aviation & Aerospace
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Mental Health Care
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Medical Devices
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 18 occurrences of value Law Practice
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 17 occurrences of value Writing and Editing
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Business Supplies and Equipment
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 16 occurrences of value Chemicals
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 14 occurrences of value Fund-Raising
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 13 occurrences of value Professional Training & Coaching
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 11 occurrences of value Higher Education
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Wholesale
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 10 occurrences of value Government Relations
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Semiconductors
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Music
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Defense & Space
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Architecture & Planning
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Translation and Localization
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 9 occurrences of value Program Development
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Veterinary
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Machinery
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Law Enforcement
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 8 occurrences of value Renewables & Environment
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value International Trade and Development
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Individual & Family Services
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Civil Engineering
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Public Safety
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 7 occurrences of value Executive Office
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Photography
+2023-06-09 13:52:37,630 [INFO]  CategoricalEncoder for column industry                                found only 6 occurrences of value Primary/Secondary Education
+2023-06-09 13:52:45,127 [WARNING]  Test set does not contain any ocurrences of values [Higher Education, Program Development, Public Safety, Primary/Secondary Education, Veterinary, Outsourcing/Offshoring, Defense & Space] in column [industry], consider using a more representative test set.
+2023-06-09 13:52:45,130 [INFO]  
+========== start: fit model
+2023-06-09 13:52:45,130 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:52:46,172 [INFO]  Epoch[0] Batch [0-6]	Speed: 5906.49 samples/sec	cross-entropy=4.213143	industry-accuracy=0.204381
+2023-06-09 13:52:46,778 [INFO]  Epoch[0] Train-cross-entropy=3.915148
+2023-06-09 13:52:46,778 [INFO]  Epoch[0] Train-industry-accuracy=0.235156
+2023-06-09 13:52:46,778 [INFO]  Epoch[0] Time cost=1.647
+2023-06-09 13:52:46,778 [INFO]  Epoch[0] Average Speed: 10828.573 samples/sec
+2023-06-09 13:52:46,792 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0000.params"
+2023-06-09 13:52:46,940 [INFO]  Epoch[0] Validation-cross-entropy=3.182349
+2023-06-09 13:52:46,940 [INFO]  Epoch[0] Validation-industry-accuracy=0.536621
+2023-06-09 13:52:47,796 [INFO]  Epoch[1] Batch [0-6]	Speed: 8341.94 samples/sec	cross-entropy=3.375291	industry-accuracy=0.283622
+2023-06-09 13:52:48,418 [INFO]  Epoch[1] Train-cross-entropy=3.488468
+2023-06-09 13:52:48,418 [INFO]  Epoch[1] Train-industry-accuracy=0.239648
+2023-06-09 13:52:48,418 [INFO]  Epoch[1] Time cost=1.478
+2023-06-09 13:52:48,418 [INFO]  Epoch[1] Average Speed: 15293.551 samples/sec
+2023-06-09 13:52:48,433 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/industry/model-0001.params"
+2023-06-09 13:52:48,571 [INFO]  Epoch[1] Validation-cross-entropy=2.697015
+2023-06-09 13:52:48,571 [INFO]  Epoch[1] Validation-industry-accuracy=0.541992
+2023-06-09 13:52:48,571 [INFO]  
+========== done (3.4403626918792725 s) fit model

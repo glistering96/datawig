@@ -1,0 +1,111 @@
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:33:23,438 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:33:23,439 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:33:37,738 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:33:37,741 [INFO]  
+========== start: fit model
+2023-06-09 13:33:37,742 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:33:38,731 [INFO]  Epoch[0] Batch [0-6]	Speed: 6216.95 samples/sec	cross-entropy=3.287055	function-accuracy=0.244280
+2023-06-09 13:33:39,248 [INFO]  Epoch[0] Train-cross-entropy=2.820200
+2023-06-09 13:33:39,248 [INFO]  Epoch[0] Train-function-accuracy=0.459473
+2023-06-09 13:33:39,248 [INFO]  Epoch[0] Time cost=1.505
+2023-06-09 13:33:39,248 [INFO]  Epoch[0] Average Speed: 10361.585 samples/sec
+2023-06-09 13:33:39,259 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0000.params"
+2023-06-09 13:33:39,444 [INFO]  Epoch[0] Validation-cross-entropy=3.725718
+2023-06-09 13:33:39,444 [INFO]  Epoch[0] Validation-function-accuracy=0.163574
+2023-06-09 13:33:40,298 [INFO]  Epoch[1] Batch [0-6]	Speed: 8481.87 samples/sec	cross-entropy=2.788335	function-accuracy=0.274693
+2023-06-09 13:33:40,799 [INFO]  Epoch[1] Train-cross-entropy=2.459628
+2023-06-09 13:33:40,799 [INFO]  Epoch[1] Train-function-accuracy=0.430664
+2023-06-09 13:33:40,799 [INFO]  Epoch[1] Time cost=1.355
+2023-06-09 13:33:40,799 [INFO]  Epoch[1] Average Speed: 14136.450 samples/sec
+2023-06-09 13:33:40,806 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0001.params"
+2023-06-09 13:33:40,950 [INFO]  Epoch[1] Validation-cross-entropy=4.002461
+2023-06-09 13:33:40,950 [INFO]  Epoch[1] Validation-function-accuracy=0.143555
+2023-06-09 13:33:40,950 [INFO]  
+========== done (3.208352565765381 s) fit model
+2023-06-09 13:40:39,575 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:40:39,576 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:40:47,311 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:40:47,314 [INFO]  
+========== start: fit model
+2023-06-09 13:40:47,315 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:40:48,383 [INFO]  Epoch[0] Batch [0-6]	Speed: 5753.95 samples/sec	cross-entropy=3.289609	function-accuracy=0.233259
+2023-06-09 13:40:49,022 [INFO]  Epoch[0] Train-cross-entropy=2.826255
+2023-06-09 13:40:49,022 [INFO]  Epoch[0] Train-function-accuracy=0.490723
+2023-06-09 13:40:49,022 [INFO]  Epoch[0] Time cost=1.707
+2023-06-09 13:40:49,022 [INFO]  Epoch[0] Average Speed: 9589.909 samples/sec
+2023-06-09 13:40:49,027 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0000.params"
+2023-06-09 13:40:49,204 [INFO]  Epoch[0] Validation-cross-entropy=3.685773
+2023-06-09 13:40:49,204 [INFO]  Epoch[0] Validation-function-accuracy=0.180176
+2023-06-09 13:40:50,263 [INFO]  Epoch[1] Batch [0-6]	Speed: 6703.80 samples/sec	cross-entropy=2.792777	function-accuracy=0.291016
+2023-06-09 13:40:50,861 [INFO]  Epoch[1] Train-cross-entropy=2.455644
+2023-06-09 13:40:50,861 [INFO]  Epoch[1] Train-function-accuracy=0.434326
+2023-06-09 13:40:50,861 [INFO]  Epoch[1] Time cost=1.656
+2023-06-09 13:40:50,861 [INFO]  Epoch[1] Average Speed: 11173.006 samples/sec
+2023-06-09 13:40:50,869 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0001.params"
+2023-06-09 13:40:51,104 [INFO]  Epoch[1] Validation-cross-entropy=3.934573
+2023-06-09 13:40:51,104 [INFO]  Epoch[1] Validation-function-accuracy=0.143555
+2023-06-09 13:40:51,104 [INFO]  
+========== done (3.7895824909210205 s) fit model
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:53:00,782 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:53:09,169 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:53:09,172 [INFO]  
+========== start: fit model
+2023-06-09 13:53:09,172 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:53:10,340 [INFO]  Epoch[0] Batch [0-6]	Speed: 5263.36 samples/sec	cross-entropy=3.289266	function-accuracy=0.236189
+2023-06-09 13:53:10,967 [INFO]  Epoch[0] Train-cross-entropy=2.825761
+2023-06-09 13:53:10,967 [INFO]  Epoch[0] Train-function-accuracy=0.491455
+2023-06-09 13:53:10,967 [INFO]  Epoch[0] Time cost=1.794
+2023-06-09 13:53:10,967 [INFO]  Epoch[0] Average Speed: 8772.259 samples/sec
+2023-06-09 13:53:10,975 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0000.params"
+2023-06-09 13:53:11,167 [INFO]  Epoch[0] Validation-cross-entropy=3.685198
+2023-06-09 13:53:11,167 [INFO]  Epoch[0] Validation-function-accuracy=0.180176
+2023-06-09 13:53:12,237 [INFO]  Epoch[1] Batch [0-6]	Speed: 6690.97 samples/sec	cross-entropy=2.791689	function-accuracy=0.292550
+2023-06-09 13:53:12,859 [INFO]  Epoch[1] Train-cross-entropy=2.454460
+2023-06-09 13:53:12,859 [INFO]  Epoch[1] Train-function-accuracy=0.434814
+2023-06-09 13:53:12,859 [INFO]  Epoch[1] Time cost=1.692
+2023-06-09 13:53:12,859 [INFO]  Epoch[1] Average Speed: 11151.614 samples/sec
+2023-06-09 13:53:12,866 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/unchained/function/model-0001.params"
+2023-06-09 13:53:13,046 [INFO]  Epoch[1] Validation-cross-entropy=3.933674
+2023-06-09 13:53:13,046 [INFO]  Epoch[1] Validation-function-accuracy=0.144531
+2023-06-09 13:53:13,046 [INFO]  
+========== done (3.8739542961120605 s) fit model

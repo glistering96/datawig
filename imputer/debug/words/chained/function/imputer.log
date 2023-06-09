@@ -1,0 +1,216 @@
+2023-06-09 12:47:17,687 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 12:47:17,687 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 12:47:17,687 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 12:47:17,687 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 12:47:17,687 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 12:47:17,688 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 12:47:33,327 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 12:47:33,332 [INFO]  
+========== start: fit model
+2023-06-09 12:47:33,332 [WARNING]  Already bound, ignoring bind()
+2023-06-09 12:47:34,508 [INFO]  Epoch[0] Batch [0-6]	Speed: 5229.60 samples/sec	cross-entropy=3.240537	function-accuracy=0.232701
+2023-06-09 12:47:35,113 [INFO]  Epoch[0] Train-cross-entropy=2.588304
+2023-06-09 12:47:35,113 [INFO]  Epoch[0] Train-function-accuracy=0.263428
+2023-06-09 12:47:35,113 [INFO]  Epoch[0] Time cost=1.780
+2023-06-09 12:47:35,113 [INFO]  Epoch[0] Average Speed: 8715.996 samples/sec
+2023-06-09 12:47:35,126 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0000.params"
+2023-06-09 12:47:35,301 [INFO]  Epoch[0] Validation-cross-entropy=4.038251
+2023-06-09 12:47:35,301 [INFO]  Epoch[0] Validation-function-accuracy=0.177734
+2023-06-09 12:47:36,407 [INFO]  Epoch[1] Batch [0-6]	Speed: 6657.41 samples/sec	cross-entropy=2.664529	function-accuracy=0.279855
+2023-06-09 12:47:37,000 [INFO]  Epoch[1] Train-cross-entropy=2.141832
+2023-06-09 12:47:37,000 [INFO]  Epoch[1] Train-function-accuracy=0.449951
+2023-06-09 12:47:37,000 [INFO]  Epoch[1] Time cost=1.699
+2023-06-09 12:47:37,000 [INFO]  Epoch[1] Average Speed: 11095.690 samples/sec
+2023-06-09 12:47:37,009 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0001.params"
+2023-06-09 12:47:37,185 [INFO]  Epoch[1] Validation-cross-entropy=4.510710
+2023-06-09 12:47:37,185 [INFO]  Epoch[1] Validation-function-accuracy=0.180176
+2023-06-09 12:47:38,278 [INFO]  Epoch[2] Batch [0-6]	Speed: 6518.02 samples/sec	cross-entropy=2.493649	function-accuracy=0.324777
+2023-06-09 12:47:38,888 [INFO]  Epoch[2] Train-cross-entropy=1.950510
+2023-06-09 12:47:38,888 [INFO]  Epoch[2] Train-function-accuracy=0.490723
+2023-06-09 12:47:38,888 [INFO]  Epoch[2] Time cost=1.703
+2023-06-09 12:47:38,888 [INFO]  Epoch[2] Average Speed: 10863.368 samples/sec
+2023-06-09 12:47:38,903 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0002.params"
+2023-06-09 12:47:39,075 [INFO]  Epoch[2] Validation-cross-entropy=4.429327
+2023-06-09 12:47:39,075 [INFO]  Epoch[2] Validation-function-accuracy=0.205566
+2023-06-09 12:47:40,161 [INFO]  Epoch[3] Batch [0-6]	Speed: 6581.16 samples/sec	cross-entropy=2.375528	function-accuracy=0.357003
+2023-06-09 12:47:40,803 [INFO]  Epoch[3] Train-cross-entropy=1.849737
+2023-06-09 12:47:40,803 [INFO]  Epoch[3] Train-function-accuracy=0.523193
+2023-06-09 12:47:40,803 [INFO]  Epoch[3] Time cost=1.728
+2023-06-09 12:47:40,803 [INFO]  Epoch[3] Average Speed: 10968.592 samples/sec
+2023-06-09 12:47:40,813 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0003.params"
+2023-06-09 12:47:40,998 [INFO]  Epoch[3] Validation-cross-entropy=4.324486
+2023-06-09 12:47:40,998 [INFO]  Epoch[3] Validation-function-accuracy=0.221680
+2023-06-09 12:47:42,092 [INFO]  Epoch[4] Batch [0-6]	Speed: 6466.73 samples/sec	cross-entropy=2.269745	function-accuracy=0.406390
+2023-06-09 12:47:42,745 [INFO]  Epoch[4] Train-cross-entropy=1.769330
+2023-06-09 12:47:42,745 [INFO]  Epoch[4] Train-function-accuracy=0.553955
+2023-06-09 12:47:42,745 [INFO]  Epoch[4] Time cost=1.747
+2023-06-09 12:47:42,745 [INFO]  Epoch[4] Average Speed: 10777.889 samples/sec
+2023-06-09 12:47:42,757 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0004.params"
+2023-06-09 12:47:42,947 [INFO]  Epoch[4] Validation-cross-entropy=4.340507
+2023-06-09 12:47:42,947 [INFO]  Epoch[4] Validation-function-accuracy=0.243164
+2023-06-09 12:47:43,987 [INFO]  Epoch[5] Batch [0-6]	Speed: 6887.97 samples/sec	cross-entropy=2.174262	function-accuracy=0.443638
+2023-06-09 12:47:44,595 [INFO]  Epoch[5] Train-cross-entropy=1.699830
+2023-06-09 12:47:44,595 [INFO]  Epoch[5] Train-function-accuracy=0.579834
+2023-06-09 12:47:44,595 [INFO]  Epoch[5] Time cost=1.648
+2023-06-09 12:47:44,595 [INFO]  Epoch[5] Average Speed: 11479.947 samples/sec
+2023-06-09 12:47:44,606 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0005.params"
+2023-06-09 12:47:44,855 [INFO]  No improvement detected for 5 epochs compared to 4.038250923156738 last error obtained: 4.388402938842773, stopping here
+2023-06-09 12:47:44,855 [INFO]  
+========== done (11.523601531982422 s) fit model
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:09:23,885 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:09:39,376 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:09:39,381 [INFO]  
+========== start: fit model
+2023-06-09 13:09:39,381 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:09:40,382 [INFO]  Epoch[0] Batch [0-6]	Speed: 6146.17 samples/sec	cross-entropy=3.262666	function-accuracy=0.249302
+2023-06-09 13:09:40,888 [INFO]  Epoch[0] Train-cross-entropy=2.727843
+2023-06-09 13:09:40,888 [INFO]  Epoch[0] Train-function-accuracy=0.252197
+2023-06-09 13:09:40,888 [INFO]  Epoch[0] Time cost=1.506
+2023-06-09 13:09:40,888 [INFO]  Epoch[0] Average Speed: 10243.610 samples/sec
+2023-06-09 13:09:40,898 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0000.params"
+2023-06-09 13:09:41,042 [INFO]  Epoch[0] Validation-cross-entropy=3.671349
+2023-06-09 13:09:41,042 [INFO]  Epoch[0] Validation-function-accuracy=0.169434
+2023-06-09 13:09:41,893 [INFO]  Epoch[1] Batch [0-6]	Speed: 8364.40 samples/sec	cross-entropy=2.689154	function-accuracy=0.273298
+2023-06-09 13:09:42,399 [INFO]  Epoch[1] Train-cross-entropy=2.324759
+2023-06-09 13:09:42,399 [INFO]  Epoch[1] Train-function-accuracy=0.418701
+2023-06-09 13:09:42,399 [INFO]  Epoch[1] Time cost=1.357
+2023-06-09 13:09:42,399 [INFO]  Epoch[1] Average Speed: 13940.666 samples/sec
+2023-06-09 13:09:42,407 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0001.params"
+2023-06-09 13:09:42,554 [INFO]  Epoch[1] Validation-cross-entropy=4.013322
+2023-06-09 13:09:42,554 [INFO]  Epoch[1] Validation-function-accuracy=0.132812
+2023-06-09 13:09:42,554 [INFO]  
+========== done (3.173513889312744 s) fit model
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:30:08,882 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:30:08,883 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:30:24,385 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:30:24,390 [INFO]  
+========== start: fit model
+2023-06-09 13:30:24,390 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:30:25,379 [INFO]  Epoch[0] Batch [0-6]	Speed: 6220.61 samples/sec	cross-entropy=3.278038	function-accuracy=0.221401
+2023-06-09 13:30:25,892 [INFO]  Epoch[0] Train-cross-entropy=2.716110
+2023-06-09 13:30:25,892 [INFO]  Epoch[0] Train-function-accuracy=0.267334
+2023-06-09 13:30:25,892 [INFO]  Epoch[0] Time cost=1.501
+2023-06-09 13:30:25,892 [INFO]  Epoch[0] Average Speed: 10367.681 samples/sec
+2023-06-09 13:30:25,907 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0000.params"
+2023-06-09 13:30:26,044 [INFO]  Epoch[0] Validation-cross-entropy=3.510497
+2023-06-09 13:30:26,044 [INFO]  Epoch[0] Validation-function-accuracy=0.168457
+2023-06-09 13:30:26,916 [INFO]  Epoch[1] Batch [0-6]	Speed: 8187.90 samples/sec	cross-entropy=2.721190	function-accuracy=0.259208
+2023-06-09 13:30:27,426 [INFO]  Epoch[1] Train-cross-entropy=2.297641
+2023-06-09 13:30:27,426 [INFO]  Epoch[1] Train-function-accuracy=0.421631
+2023-06-09 13:30:27,426 [INFO]  Epoch[1] Time cost=1.382
+2023-06-09 13:30:27,426 [INFO]  Epoch[1] Average Speed: 13646.492 samples/sec
+2023-06-09 13:30:27,433 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0001.params"
+2023-06-09 13:30:27,584 [INFO]  Epoch[1] Validation-cross-entropy=3.810321
+2023-06-09 13:30:27,584 [INFO]  Epoch[1] Validation-function-accuracy=0.142090
+2023-06-09 13:30:27,585 [INFO]  
+========== done (3.194772958755493 s) fit model
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:38:34,572 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:38:43,005 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:38:43,010 [INFO]  
+========== start: fit model
+2023-06-09 13:38:43,010 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:38:44,128 [INFO]  Epoch[0] Batch [0-6]	Speed: 5496.57 samples/sec	cross-entropy=3.253323	function-accuracy=0.218890
+2023-06-09 13:38:44,768 [INFO]  Epoch[0] Train-cross-entropy=2.687355
+2023-06-09 13:38:44,768 [INFO]  Epoch[0] Train-function-accuracy=0.230713
+2023-06-09 13:38:44,768 [INFO]  Epoch[0] Time cost=1.758
+2023-06-09 13:38:44,768 [INFO]  Epoch[0] Average Speed: 9160.949 samples/sec
+2023-06-09 13:38:44,782 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0000.params"
+2023-06-09 13:38:44,964 [INFO]  Epoch[0] Validation-cross-entropy=3.575597
+2023-06-09 13:38:44,965 [INFO]  Epoch[0] Validation-function-accuracy=0.170898
+2023-06-09 13:38:46,078 [INFO]  Epoch[1] Batch [0-6]	Speed: 6457.50 samples/sec	cross-entropy=2.698748	function-accuracy=0.254046
+2023-06-09 13:38:46,675 [INFO]  Epoch[1] Train-cross-entropy=2.298131
+2023-06-09 13:38:46,675 [INFO]  Epoch[1] Train-function-accuracy=0.410400
+2023-06-09 13:38:46,675 [INFO]  Epoch[1] Time cost=1.711
+2023-06-09 13:38:46,675 [INFO]  Epoch[1] Average Speed: 10762.498 samples/sec
+2023-06-09 13:38:46,683 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0001.params"
+2023-06-09 13:38:46,859 [INFO]  Epoch[1] Validation-cross-entropy=3.866881
+2023-06-09 13:38:46,859 [INFO]  Epoch[1] Validation-function-accuracy=0.130859
+2023-06-09 13:38:46,859 [INFO]  
+========== done (3.849755048751831 s) fit model
+2023-06-09 13:50:55,366 [INFO]  CategoricalEncoder for column function                                found only 85 occurrences of value Advertising
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 75 occurrences of value Business Analyst
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 74 occurrences of value Data Analyst
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 68 occurrences of value Manufacturing
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 66 occurrences of value Public Relations
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 57 occurrences of value General Business
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 44 occurrences of value Research
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 43 occurrences of value Strategy/Planning
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 42 occurrences of value Legal
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 35 occurrences of value Training
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 34 occurrences of value Supply Chain
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 31 occurrences of value Financial Analyst
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 22 occurrences of value Distribution
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 14 occurrences of value Science
+2023-06-09 13:50:55,367 [INFO]  CategoricalEncoder for column function                                found only 11 occurrences of value Purchasing
+2023-06-09 13:51:04,186 [WARNING]  Test set does not contain any ocurrences of values [Science] in column [function], consider using a more representative test set.
+2023-06-09 13:51:04,189 [INFO]  
+========== start: fit model
+2023-06-09 13:51:04,190 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:51:05,395 [INFO]  Epoch[0] Batch [0-6]	Speed: 5099.24 samples/sec	cross-entropy=3.264734	function-accuracy=0.252232
+2023-06-09 13:51:05,999 [INFO]  Epoch[0] Train-cross-entropy=2.756893
+2023-06-09 13:51:05,999 [INFO]  Epoch[0] Train-function-accuracy=0.246826
+2023-06-09 13:51:05,999 [INFO]  Epoch[0] Time cost=1.809
+2023-06-09 13:51:05,999 [INFO]  Epoch[0] Average Speed: 8498.738 samples/sec
+2023-06-09 13:51:06,006 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0000.params"
+2023-06-09 13:51:06,222 [INFO]  Epoch[0] Validation-cross-entropy=3.708100
+2023-06-09 13:51:06,222 [INFO]  Epoch[0] Validation-function-accuracy=0.179688
+2023-06-09 13:51:07,292 [INFO]  Epoch[1] Batch [0-6]	Speed: 6704.93 samples/sec	cross-entropy=2.698801	function-accuracy=0.282087
+2023-06-09 13:51:07,915 [INFO]  Epoch[1] Train-cross-entropy=2.367213
+2023-06-09 13:51:07,915 [INFO]  Epoch[1] Train-function-accuracy=0.428223
+2023-06-09 13:51:07,915 [INFO]  Epoch[1] Time cost=1.693
+2023-06-09 13:51:07,915 [INFO]  Epoch[1] Average Speed: 11174.887 samples/sec
+2023-06-09 13:51:07,924 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/function/model-0001.params"
+2023-06-09 13:51:08,108 [INFO]  Epoch[1] Validation-cross-entropy=4.083307
+2023-06-09 13:51:08,108 [INFO]  Epoch[1] Validation-function-accuracy=0.140625
+2023-06-09 13:51:08,108 [INFO]  
+========== done (3.9186320304870605 s) fit model

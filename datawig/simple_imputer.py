@@ -23,21 +23,21 @@ import json
 import os
 import pickle
 import shutil
-from typing import List, Dict, Any, Callable
+from typing import Any, Callable, Dict, List
 
 import mxnet as mx
-import pandas as pd
 import numpy as np
+import pandas as pd
 from pandas.api.types import is_numeric_dtype
 
 from ._hpo import _HPO
-from .column_encoders import BowEncoder, CategoricalEncoder, NumericalEncoder, TfIdfEncoder
-from .imputer import Imputer
-from .mxnet_input_symbols import BowFeaturizer, NumericalFeaturizer
-from .utils import logger, get_context, random_split, rand_string, flatten_dict, merge_dicts, set_stream_log_level
+from .column_encoders import (BowEncoder, CategoricalEncoder, NumericalEncoder,
+                              TfIdfEncoder)
 from .imputer import Imputer
 from .iterators import INSTANCE_WEIGHT_COLUMN
-
+from .mxnet_input_symbols import BowFeaturizer, NumericalFeaturizer
+from .utils import (flatten_dict, get_context, logger, merge_dicts,
+                    rand_string, random_split, set_stream_log_level)
 
 
 class SimpleImputer:
@@ -463,6 +463,7 @@ class SimpleImputer:
                  verbose: int = 0,
                  num_epochs: int = 100,
                  iterations: int = 1,
+                 batch_size: int = 512,
                  output_path: str = "."):
         """
         Given a dataframe with missing values, this function detects all imputable columns, trains an imputation model
@@ -518,12 +519,13 @@ class SimpleImputer:
                 if hpo:
                     imputer.fit_hpo(data_frame.loc[~idx_missing, :],
                                     patience=5 if output_col in categorical_columns else 20,
-                                    num_epochs=100,
+                                    num_epochs=100, batch_size=batch_size,
                                     final_fc_hidden_units=[[0], [10], [50], [100]])
                 else:
                     imputer.fit(data_frame.loc[~idx_missing, :],
                                 patience=5 if output_col in categorical_columns else 20,
                                 num_epochs=num_epochs,
+                                batch_size=batch_size,
                                 calibrate=False)
 
                 tmp = imputer.predict(data_frame, precision_threshold=precision_threshold)

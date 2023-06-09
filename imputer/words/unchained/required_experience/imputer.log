@@ -546,3 +546,95 @@
 2023-06-09 11:44:14,183 [INFO]  No improvement detected for 5 epochs compared to 1.7379820048809052 last error obtained: 1.7392042875289917, stopping here
 2023-06-09 11:44:14,183 [INFO]  
 ========== done (101.23599290847778 s) fit model
+2023-06-09 15:23:34,445 [INFO]  
+========== start: fit model
+2023-06-09 15:23:34,447 [WARNING]  Already bound, ignoring bind()
+2023-06-09 15:23:35,276 [INFO]  Epoch[0] Batch [0-3]	Speed: 7416.60 samples/sec	cross-entropy=1.922358	required_experience-accuracy=0.353516
+2023-06-09 15:23:35,452 [INFO]  Epoch[0] Train-cross-entropy=1.691946
+2023-06-09 15:23:35,452 [INFO]  Epoch[0] Train-required_experience-accuracy=0.547852
+2023-06-09 15:23:35,452 [INFO]  Epoch[0] Time cost=1.004
+2023-06-09 15:23:35,452 [INFO]  Epoch[0] Average Speed: 9888.799 samples/sec
+2023-06-09 15:23:35,454 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0000.params"
+2023-06-09 15:23:35,576 [INFO]  Epoch[0] Validation-cross-entropy=2.137375
+2023-06-09 15:23:35,576 [INFO]  Epoch[0] Validation-required_experience-accuracy=0.217285
+2023-06-09 15:23:36,245 [INFO]  Epoch[1] Batch [0-3]	Speed: 12279.43 samples/sec	cross-entropy=1.638813	required_experience-accuracy=0.416748
+2023-06-09 15:23:36,413 [INFO]  Epoch[1] Train-cross-entropy=1.446398
+2023-06-09 15:23:36,413 [INFO]  Epoch[1] Train-required_experience-accuracy=0.549805
+2023-06-09 15:23:36,413 [INFO]  Epoch[1] Time cost=0.837
+2023-06-09 15:23:36,413 [INFO]  Epoch[1] Average Speed: 16372.570 samples/sec
+2023-06-09 15:23:36,415 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0001.params"
+2023-06-09 15:23:36,534 [INFO]  Epoch[1] Validation-cross-entropy=2.389201
+2023-06-09 15:23:36,534 [INFO]  Epoch[1] Validation-required_experience-accuracy=0.219727
+2023-06-09 15:23:37,231 [INFO]  Epoch[2] Batch [0-3]	Speed: 11805.19 samples/sec	cross-entropy=1.545814	required_experience-accuracy=0.422485
+2023-06-09 15:23:37,417 [INFO]  Epoch[2] Train-cross-entropy=1.323166
+2023-06-09 15:23:37,417 [INFO]  Epoch[2] Train-required_experience-accuracy=0.564453
+2023-06-09 15:23:37,417 [INFO]  Epoch[2] Time cost=0.883
+2023-06-09 15:23:37,417 [INFO]  Epoch[2] Average Speed: 15740.257 samples/sec
+2023-06-09 15:23:37,419 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0002.params"
+2023-06-09 15:23:37,543 [INFO]  Epoch[2] Validation-cross-entropy=2.574486
+2023-06-09 15:23:37,544 [INFO]  Epoch[2] Validation-required_experience-accuracy=0.227539
+2023-06-09 15:23:38,249 [INFO]  Epoch[3] Batch [0-3]	Speed: 11651.18 samples/sec	cross-entropy=1.506466	required_experience-accuracy=0.436768
+2023-06-09 15:23:38,428 [INFO]  Epoch[3] Train-cross-entropy=1.251087
+2023-06-09 15:23:38,428 [INFO]  Epoch[3] Train-required_experience-accuracy=0.563477
+2023-06-09 15:23:38,428 [INFO]  Epoch[3] Time cost=0.884
+2023-06-09 15:23:38,428 [INFO]  Epoch[3] Average Speed: 15534.902 samples/sec
+2023-06-09 15:23:38,430 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0003.params"
+2023-06-09 15:23:38,555 [INFO]  Epoch[3] Validation-cross-entropy=2.595404
+2023-06-09 15:23:38,555 [INFO]  Epoch[3] Validation-required_experience-accuracy=0.224609
+2023-06-09 15:23:39,262 [INFO]  Epoch[4] Batch [0-3]	Speed: 11660.27 samples/sec	cross-entropy=1.461769	required_experience-accuracy=0.440308
+2023-06-09 15:23:39,448 [INFO]  Epoch[4] Train-cross-entropy=1.194816
+2023-06-09 15:23:39,448 [INFO]  Epoch[4] Train-required_experience-accuracy=0.575195
+2023-06-09 15:23:39,448 [INFO]  Epoch[4] Time cost=0.893
+2023-06-09 15:23:39,448 [INFO]  Epoch[4] Average Speed: 15547.020 samples/sec
+2023-06-09 15:23:39,450 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0004.params"
+2023-06-09 15:23:39,578 [INFO]  Epoch[4] Validation-cross-entropy=2.477491
+2023-06-09 15:23:39,579 [INFO]  Epoch[4] Validation-required_experience-accuracy=0.235840
+2023-06-09 15:23:40,292 [INFO]  Epoch[5] Batch [0-3]	Speed: 11527.80 samples/sec	cross-entropy=1.409461	required_experience-accuracy=0.455322
+2023-06-09 15:23:40,478 [INFO]  Epoch[5] Train-cross-entropy=1.155772
+2023-06-09 15:23:40,478 [INFO]  Epoch[5] Train-required_experience-accuracy=0.583496
+2023-06-09 15:23:40,478 [INFO]  Epoch[5] Time cost=0.900
+2023-06-09 15:23:40,478 [INFO]  Epoch[5] Average Speed: 15370.397 samples/sec
+2023-06-09 15:23:40,480 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0005.params"
+2023-06-09 15:23:40,608 [INFO]  Epoch[5] Validation-cross-entropy=2.314787
+2023-06-09 15:23:40,608 [INFO]  Epoch[5] Validation-required_experience-accuracy=0.246094
+2023-06-09 15:23:41,336 [INFO]  Epoch[6] Batch [0-3]	Speed: 11273.82 samples/sec	cross-entropy=1.371009	required_experience-accuracy=0.483032
+2023-06-09 15:23:41,524 [INFO]  Epoch[6] Train-cross-entropy=1.130152
+2023-06-09 15:23:41,524 [INFO]  Epoch[6] Train-required_experience-accuracy=0.611328
+2023-06-09 15:23:41,525 [INFO]  Epoch[6] Time cost=0.916
+2023-06-09 15:23:41,525 [INFO]  Epoch[6] Average Speed: 15031.763 samples/sec
+2023-06-09 15:23:41,527 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0006.params"
+2023-06-09 15:23:41,657 [INFO]  Epoch[6] Validation-cross-entropy=2.213692
+2023-06-09 15:23:41,657 [INFO]  Epoch[6] Validation-required_experience-accuracy=0.258301
+2023-06-09 15:23:42,385 [INFO]  Epoch[7] Batch [0-3]	Speed: 11231.86 samples/sec	cross-entropy=1.342361	required_experience-accuracy=0.511841
+2023-06-09 15:23:42,570 [INFO]  Epoch[7] Train-cross-entropy=1.095059
+2023-06-09 15:23:42,570 [INFO]  Epoch[7] Train-required_experience-accuracy=0.627930
+2023-06-09 15:23:42,570 [INFO]  Epoch[7] Time cost=0.913
+2023-06-09 15:23:42,570 [INFO]  Epoch[7] Average Speed: 14975.818 samples/sec
+2023-06-09 15:23:42,572 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0007.params"
+2023-06-09 15:23:42,703 [INFO]  Epoch[7] Validation-cross-entropy=2.202028
+2023-06-09 15:23:42,703 [INFO]  Epoch[7] Validation-required_experience-accuracy=0.265625
+2023-06-09 15:23:43,428 [INFO]  Epoch[8] Batch [0-3]	Speed: 11268.96 samples/sec	cross-entropy=1.313820	required_experience-accuracy=0.523071
+2023-06-09 15:23:43,613 [INFO]  Epoch[8] Train-cross-entropy=1.059078
+2023-06-09 15:23:43,613 [INFO]  Epoch[8] Train-required_experience-accuracy=0.627930
+2023-06-09 15:23:43,613 [INFO]  Epoch[8] Time cost=0.910
+2023-06-09 15:23:43,613 [INFO]  Epoch[8] Average Speed: 15025.275 samples/sec
+2023-06-09 15:23:43,615 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0008.params"
+2023-06-09 15:23:43,747 [INFO]  Epoch[8] Validation-cross-entropy=2.219398
+2023-06-09 15:23:43,747 [INFO]  Epoch[8] Validation-required_experience-accuracy=0.266113
+2023-06-09 15:23:44,463 [INFO]  Epoch[9] Batch [0-3]	Speed: 11414.83 samples/sec	cross-entropy=1.290755	required_experience-accuracy=0.521240
+2023-06-09 15:23:44,650 [INFO]  Epoch[9] Train-cross-entropy=1.030239
+2023-06-09 15:23:44,650 [INFO]  Epoch[9] Train-required_experience-accuracy=0.629883
+2023-06-09 15:23:44,650 [INFO]  Epoch[9] Time cost=0.903
+2023-06-09 15:23:44,650 [INFO]  Epoch[9] Average Speed: 15219.768 samples/sec
+2023-06-09 15:23:44,651 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0009.params"
+2023-06-09 15:23:44,780 [INFO]  Epoch[9] Validation-cross-entropy=2.212775
+2023-06-09 15:23:44,780 [INFO]  Epoch[9] Validation-required_experience-accuracy=0.269531
+2023-06-09 15:23:45,506 [INFO]  Epoch[10] Batch [0-3]	Speed: 11316.59 samples/sec	cross-entropy=1.269308	required_experience-accuracy=0.532471
+2023-06-09 15:23:45,693 [INFO]  Epoch[10] Train-cross-entropy=1.006830
+2023-06-09 15:23:45,693 [INFO]  Epoch[10] Train-required_experience-accuracy=0.641602
+2023-06-09 15:23:45,693 [INFO]  Epoch[10] Time cost=0.913
+2023-06-09 15:23:45,693 [INFO]  Epoch[10] Average Speed: 15088.789 samples/sec
+2023-06-09 15:23:45,695 [INFO]  Saved checkpoint to "/root/datawig/imputer//words/unchained/required_experience/model-0010.params"
+2023-06-09 15:23:45,823 [INFO]  No improvement detected for 10 epochs compared to 2.1373746395111084 last error obtained: 2.1760528087615967, stopping here
+2023-06-09 15:23:45,824 [INFO]  
+========== done (11.378417730331421 s) fit model

@@ -1,0 +1,544 @@
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 71 occurrences of value SG
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 70 occurrences of value PL
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 68 occurrences of value HK
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 67 occurrences of value EE
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 66 occurrences of value IL
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 60 occurrences of value FR
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 56 occurrences of value ES
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 47 occurrences of value AE
+2023-06-09 12:44:23,682 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value SE
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value EG
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 38 occurrences of value RO
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 37 occurrences of value DK
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value ZA
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value BR
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 29 occurrences of value IT
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 25 occurrences of value FI
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value PK
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value LT
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value JP
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value MY
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value RU
+2023-06-09 12:44:23,683 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value QA
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 17 occurrences of value PT
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value BG
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value MX
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value SA
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value TR
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value CN
+2023-06-09 12:44:23,684 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value AT
+2023-06-09 12:44:23,685 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value UA
+2023-06-09 12:44:23,685 [INFO]  CategoricalEncoder for column location                                found only 12 occurrences of value CH
+2023-06-09 12:44:23,685 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value MT
+2023-06-09 12:44:23,685 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value ID
+2023-06-09 12:44:23,685 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value HU
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 10 occurrences of value MU
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value AR
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value CY
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value KR
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value NG
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value PA
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value BH
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value IQ
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value LU
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value NO
+2023-06-09 12:44:23,686 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value KE
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value BY
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value CZ
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value TH
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value LV
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 5 occurrences of value RS
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value VN
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value NI
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TW
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TT
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value VI
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value BD
+2023-06-09 12:44:23,687 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value IS
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value TN
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value SK
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value ZM
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value AM
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value CL
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value GH
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SI
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value AL
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KZ
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value MA
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value LK
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value PE
+2023-06-09 12:44:23,688 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SD
+2023-06-09 12:44:23,689 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value CM
+2023-06-09 12:44:23,689 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value UG
+2023-06-09 12:44:23,689 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KW
+2023-06-09 12:44:23,689 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value JM
+2023-06-09 12:44:39,927 [WARNING]  Test set does not contain any ocurrences of values [NO, JM, MA, UA, NI, GH, AR, VN, CM, CZ, AM, VI, SD, UG, KE, JP, ZM, SI, PA, CL, KZ, TN, SK, LV, AL, PE, IS, BD] in column [location], consider using a more representative test set.
+2023-06-09 12:44:39,956 [INFO]  
+========== start: fit model
+2023-06-09 12:44:39,957 [WARNING]  Already bound, ignoring bind()
+2023-06-09 12:44:43,927 [INFO]  Epoch[0] Batch [0-8]	Speed: 2065.71 samples/sec	cross-entropy=3.532782	location-accuracy=0.560655
+2023-06-09 12:44:44,960 [INFO]  Epoch[0] Train-cross-entropy=2.104393
+2023-06-09 12:44:44,960 [INFO]  Epoch[0] Train-location-accuracy=0.665597
+2023-06-09 12:44:44,960 [INFO]  Epoch[0] Time cost=5.001
+2023-06-09 12:44:44,960 [INFO]  Epoch[0] Average Speed: 3873.202 samples/sec
+2023-06-09 12:44:44,980 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0000.params"
+2023-06-09 12:44:45,131 [INFO]  Epoch[0] Validation-cross-entropy=2.711239
+2023-06-09 12:44:45,131 [INFO]  Epoch[0] Validation-location-accuracy=0.536133
+2023-06-09 12:44:46,495 [INFO]  Epoch[1] Batch [0-8]	Speed: 6777.48 samples/sec	cross-entropy=1.758112	location-accuracy=0.609375
+2023-06-09 12:44:47,543 [INFO]  Epoch[1] Train-cross-entropy=1.534610
+2023-06-09 12:44:47,543 [INFO]  Epoch[1] Train-location-accuracy=0.657227
+2023-06-09 12:44:47,543 [INFO]  Epoch[1] Time cost=2.412
+2023-06-09 12:44:47,543 [INFO]  Epoch[1] Average Speed: 12707.776 samples/sec
+2023-06-09 12:44:47,556 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0001.params"
+2023-06-09 12:44:47,711 [INFO]  Epoch[1] Validation-cross-entropy=2.705662
+2023-06-09 12:44:47,711 [INFO]  Epoch[1] Validation-location-accuracy=0.538574
+2023-06-09 12:44:49,029 [INFO]  Epoch[2] Batch [0-8]	Speed: 7026.10 samples/sec	cross-entropy=1.571931	location-accuracy=0.630317
+2023-06-09 12:44:50,094 [INFO]  Epoch[2] Train-cross-entropy=1.387378
+2023-06-09 12:44:50,094 [INFO]  Epoch[2] Train-location-accuracy=0.666853
+2023-06-09 12:44:50,094 [INFO]  Epoch[2] Time cost=2.383
+2023-06-09 12:44:50,094 [INFO]  Epoch[2] Average Speed: 13173.938 samples/sec
+2023-06-09 12:44:50,106 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0002.params"
+2023-06-09 12:44:50,247 [INFO]  Epoch[2] Validation-cross-entropy=2.347689
+2023-06-09 12:44:50,247 [INFO]  Epoch[2] Validation-location-accuracy=0.539551
+2023-06-09 12:44:51,569 [INFO]  Epoch[3] Batch [0-8]	Speed: 6955.40 samples/sec	cross-entropy=1.448661	location-accuracy=0.630425
+2023-06-09 12:44:52,610 [INFO]  Epoch[3] Train-cross-entropy=1.282563
+2023-06-09 12:44:52,610 [INFO]  Epoch[3] Train-location-accuracy=0.667132
+2023-06-09 12:44:52,610 [INFO]  Epoch[3] Time cost=2.363
+2023-06-09 12:44:52,610 [INFO]  Epoch[3] Average Speed: 13041.372 samples/sec
+2023-06-09 12:44:52,625 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0003.params"
+2023-06-09 12:44:52,758 [INFO]  Epoch[3] Validation-cross-entropy=2.030966
+2023-06-09 12:44:52,759 [INFO]  Epoch[3] Validation-location-accuracy=0.541504
+2023-06-09 12:44:54,113 [INFO]  Epoch[4] Batch [0-8]	Speed: 6814.09 samples/sec	cross-entropy=1.353568	location-accuracy=0.633681
+2023-06-09 12:44:55,161 [INFO]  Epoch[4] Train-cross-entropy=1.200173
+2023-06-09 12:44:55,162 [INFO]  Epoch[4] Train-location-accuracy=0.677037
+2023-06-09 12:44:55,162 [INFO]  Epoch[4] Time cost=2.403
+2023-06-09 12:44:55,162 [INFO]  Epoch[4] Average Speed: 12776.415 samples/sec
+2023-06-09 12:44:55,174 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0004.params"
+2023-06-09 12:44:55,321 [INFO]  Epoch[4] Validation-cross-entropy=1.828592
+2023-06-09 12:44:55,321 [INFO]  Epoch[4] Validation-location-accuracy=0.550293
+2023-06-09 12:44:56,662 [INFO]  Epoch[5] Batch [0-8]	Speed: 6892.21 samples/sec	cross-entropy=1.275697	location-accuracy=0.646376
+2023-06-09 12:44:57,711 [INFO]  Epoch[5] Train-cross-entropy=1.127359
+2023-06-09 12:44:57,711 [INFO]  Epoch[5] Train-location-accuracy=0.694475
+2023-06-09 12:44:57,711 [INFO]  Epoch[5] Time cost=2.390
+2023-06-09 12:44:57,711 [INFO]  Epoch[5] Average Speed: 12922.895 samples/sec
+2023-06-09 12:44:57,727 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0005.params"
+2023-06-09 12:44:57,864 [INFO]  Epoch[5] Validation-cross-entropy=1.733194
+2023-06-09 12:44:57,864 [INFO]  Epoch[5] Validation-location-accuracy=0.563965
+2023-06-09 12:44:59,183 [INFO]  Epoch[6] Batch [0-8]	Speed: 6993.48 samples/sec	cross-entropy=1.204833	location-accuracy=0.665256
+2023-06-09 12:45:00,195 [INFO]  Epoch[6] Train-cross-entropy=1.062220
+2023-06-09 12:45:00,195 [INFO]  Epoch[6] Train-location-accuracy=0.713170
+2023-06-09 12:45:00,195 [INFO]  Epoch[6] Time cost=2.331
+2023-06-09 12:45:00,195 [INFO]  Epoch[6] Average Speed: 13112.776 samples/sec
+2023-06-09 12:45:00,208 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0006.params"
+2023-06-09 12:45:00,361 [INFO]  Epoch[6] Validation-cross-entropy=1.663234
+2023-06-09 12:45:00,361 [INFO]  Epoch[6] Validation-location-accuracy=0.576660
+2023-06-09 12:45:01,660 [INFO]  Epoch[7] Batch [0-8]	Speed: 7121.35 samples/sec	cross-entropy=1.139525	location-accuracy=0.683051
+2023-06-09 12:45:02,693 [INFO]  Epoch[7] Train-cross-entropy=1.003197
+2023-06-09 12:45:02,693 [INFO]  Epoch[7] Train-location-accuracy=0.729911
+2023-06-09 12:45:02,693 [INFO]  Epoch[7] Time cost=2.333
+2023-06-09 12:45:02,694 [INFO]  Epoch[7] Average Speed: 13352.540 samples/sec
+2023-06-09 12:45:02,705 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0007.params"
+2023-06-09 12:45:02,842 [INFO]  Epoch[7] Validation-cross-entropy=1.587816
+2023-06-09 12:45:02,843 [INFO]  Epoch[7] Validation-location-accuracy=0.584961
+2023-06-09 12:45:04,129 [INFO]  Epoch[8] Batch [0-8]	Speed: 7125.72 samples/sec	cross-entropy=1.079405	location-accuracy=0.700629
+2023-06-09 12:45:05,145 [INFO]  Epoch[8] Train-cross-entropy=0.948919
+2023-06-09 12:45:05,145 [INFO]  Epoch[8] Train-location-accuracy=0.746233
+2023-06-09 12:45:05,146 [INFO]  Epoch[8] Time cost=2.303
+2023-06-09 12:45:05,146 [INFO]  Epoch[8] Average Speed: 13360.725 samples/sec
+2023-06-09 12:45:05,158 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0008.params"
+2023-06-09 12:45:05,308 [INFO]  Epoch[8] Validation-cross-entropy=1.514721
+2023-06-09 12:45:05,308 [INFO]  Epoch[8] Validation-location-accuracy=0.595703
+2023-06-09 12:45:06,597 [INFO]  Epoch[9] Batch [0-8]	Speed: 7174.38 samples/sec	cross-entropy=1.023723	location-accuracy=0.718207
+2023-06-09 12:45:07,627 [INFO]  Epoch[9] Train-cross-entropy=0.898950
+2023-06-09 12:45:07,627 [INFO]  Epoch[9] Train-location-accuracy=0.758231
+2023-06-09 12:45:07,627 [INFO]  Epoch[9] Time cost=2.319
+2023-06-09 12:45:07,627 [INFO]  Epoch[9] Average Speed: 13451.964 samples/sec
+2023-06-09 12:45:07,646 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0009.params"
+2023-06-09 12:45:07,793 [INFO]  Epoch[9] Validation-cross-entropy=1.449585
+2023-06-09 12:45:07,793 [INFO]  Epoch[9] Validation-location-accuracy=0.606934
+2023-06-09 12:45:07,793 [INFO]  
+========== done (27.836614847183228 s) fit model
+2023-06-09 13:07:20,523 [INFO]  CategoricalEncoder for column location                                found only 71 occurrences of value SG
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 70 occurrences of value PL
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 68 occurrences of value HK
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 67 occurrences of value EE
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 66 occurrences of value IL
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 60 occurrences of value FR
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 56 occurrences of value ES
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 47 occurrences of value AE
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value SE
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value EG
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 38 occurrences of value RO
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 37 occurrences of value DK
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value ZA
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value BR
+2023-06-09 13:07:20,524 [INFO]  CategoricalEncoder for column location                                found only 29 occurrences of value IT
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 25 occurrences of value FI
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value PK
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value LT
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value JP
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value MY
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value RU
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value QA
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 17 occurrences of value PT
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value BG
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value MX
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value SA
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value TR
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value CN
+2023-06-09 13:07:20,525 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value AT
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value UA
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 12 occurrences of value CH
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value MT
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value ID
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value HU
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 10 occurrences of value MU
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value AR
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value CY
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value KR
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value NG
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value PA
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value BH
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value IQ
+2023-06-09 13:07:20,526 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value LU
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value NO
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value KE
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value BY
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value CZ
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value TH
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value LV
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 5 occurrences of value RS
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value VN
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value NI
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TW
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TT
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value VI
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value BD
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value IS
+2023-06-09 13:07:20,527 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value TN
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value SK
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value ZM
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value AM
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value CL
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value GH
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SI
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value AL
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KZ
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value MA
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value LK
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value PE
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SD
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value CM
+2023-06-09 13:07:20,528 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value UG
+2023-06-09 13:07:20,529 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KW
+2023-06-09 13:07:20,529 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value JM
+2023-06-09 13:07:37,098 [WARNING]  Test set does not contain any ocurrences of values [MA, PA, NO, SK, NI, AL, SI, AR, LV, CL, TN, ZM, KE, PE, UG, UA, CZ, VI, KZ, GH, AM, IS, JP, BD, JM, SD, VN, CM] in column [location], consider using a more representative test set.
+2023-06-09 13:07:37,131 [INFO]  
+========== start: fit model
+2023-06-09 13:07:37,131 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:07:41,287 [INFO]  Epoch[0] Batch [0-8]	Speed: 1972.00 samples/sec	cross-entropy=3.532710	location-accuracy=0.560330
+2023-06-09 13:07:42,311 [INFO]  Epoch[0] Train-cross-entropy=2.114545
+2023-06-09 13:07:42,312 [INFO]  Epoch[0] Train-location-accuracy=0.666434
+2023-06-09 13:07:42,312 [INFO]  Epoch[0] Time cost=5.179
+2023-06-09 13:07:42,312 [INFO]  Epoch[0] Average Speed: 3697.506 samples/sec
+2023-06-09 13:07:42,334 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0000.params"
+2023-06-09 13:07:42,507 [INFO]  Epoch[0] Validation-cross-entropy=2.658991
+2023-06-09 13:07:42,508 [INFO]  Epoch[0] Validation-location-accuracy=0.536621
+2023-06-09 13:07:43,788 [INFO]  Epoch[1] Batch [0-8]	Speed: 7192.98 samples/sec	cross-entropy=1.767264	location-accuracy=0.612522
+2023-06-09 13:07:44,787 [INFO]  Epoch[1] Train-cross-entropy=1.529524
+2023-06-09 13:07:44,788 [INFO]  Epoch[1] Train-location-accuracy=0.657087
+2023-06-09 13:07:44,788 [INFO]  Epoch[1] Time cost=2.280
+2023-06-09 13:07:44,788 [INFO]  Epoch[1] Average Speed: 13486.830 samples/sec
+2023-06-09 13:07:44,800 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0001.params"
+2023-06-09 13:07:44,941 [INFO]  Epoch[1] Validation-cross-entropy=2.591530
+2023-06-09 13:07:44,941 [INFO]  Epoch[1] Validation-location-accuracy=0.537598
+2023-06-09 13:07:44,941 [INFO]  
+========== done (7.809537649154663 s) fit model
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 71 occurrences of value SG
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 70 occurrences of value PL
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 68 occurrences of value HK
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 67 occurrences of value EE
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 66 occurrences of value IL
+2023-06-09 13:28:08,603 [INFO]  CategoricalEncoder for column location                                found only 60 occurrences of value FR
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 56 occurrences of value ES
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 47 occurrences of value AE
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value SE
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value EG
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 38 occurrences of value RO
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 37 occurrences of value DK
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value ZA
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value BR
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 29 occurrences of value IT
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 25 occurrences of value FI
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value PK
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value LT
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value JP
+2023-06-09 13:28:08,604 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value MY
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value RU
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value QA
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 17 occurrences of value PT
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value BG
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value MX
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value SA
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value TR
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value CN
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value AT
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value UA
+2023-06-09 13:28:08,605 [INFO]  CategoricalEncoder for column location                                found only 12 occurrences of value CH
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value MT
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value ID
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value HU
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 10 occurrences of value MU
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value AR
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value CY
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value KR
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value NG
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value PA
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value BH
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value IQ
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value LU
+2023-06-09 13:28:08,606 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value NO
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value KE
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value BY
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value CZ
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value TH
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value LV
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 5 occurrences of value RS
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value VN
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value NI
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TW
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TT
+2023-06-09 13:28:08,607 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value VI
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value BD
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value IS
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value TN
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value SK
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value ZM
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value AM
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value CL
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value GH
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SI
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value AL
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KZ
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value MA
+2023-06-09 13:28:08,608 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value LK
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value PE
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SD
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value CM
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value UG
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KW
+2023-06-09 13:28:08,609 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value JM
+2023-06-09 13:28:24,907 [WARNING]  Test set does not contain any ocurrences of values [CL, SD, PA, AL, BD, AM, JM, ZM, SK, LV, CM, NO, SI, UA, JP, UG, GH, VN, NI, CZ, VI, AR, TN, PE, IS, MA, KE, KZ] in column [location], consider using a more representative test set.
+2023-06-09 13:28:25,003 [INFO]  
+========== start: fit model
+2023-06-09 13:28:25,003 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:28:28,749 [INFO]  Epoch[0] Batch [0-8]	Speed: 2188.79 samples/sec	cross-entropy=3.532091	location-accuracy=0.560221
+2023-06-09 13:28:29,796 [INFO]  Epoch[0] Train-cross-entropy=2.113237
+2023-06-09 13:28:29,796 [INFO]  Epoch[0] Train-location-accuracy=0.666434
+2023-06-09 13:28:29,797 [INFO]  Epoch[0] Time cost=4.792
+2023-06-09 13:28:29,797 [INFO]  Epoch[0] Average Speed: 4103.987 samples/sec
+2023-06-09 13:28:29,809 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0000.params"
+2023-06-09 13:28:29,967 [INFO]  Epoch[0] Validation-cross-entropy=2.657853
+2023-06-09 13:28:29,967 [INFO]  Epoch[0] Validation-location-accuracy=0.536621
+2023-06-09 13:28:31,296 [INFO]  Epoch[1] Batch [0-8]	Speed: 6948.78 samples/sec	cross-entropy=1.765228	location-accuracy=0.612739
+2023-06-09 13:28:32,343 [INFO]  Epoch[1] Train-cross-entropy=1.527081
+2023-06-09 13:28:32,343 [INFO]  Epoch[1] Train-location-accuracy=0.657227
+2023-06-09 13:28:32,343 [INFO]  Epoch[1] Time cost=2.376
+2023-06-09 13:28:32,343 [INFO]  Epoch[1] Average Speed: 13028.963 samples/sec
+2023-06-09 13:28:32,356 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0001.params"
+2023-06-09 13:28:32,500 [INFO]  Epoch[1] Validation-cross-entropy=2.588961
+2023-06-09 13:28:32,501 [INFO]  Epoch[1] Validation-location-accuracy=0.537598
+2023-06-09 13:28:32,501 [INFO]  
+========== done (7.498036861419678 s) fit model
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 71 occurrences of value SG
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 70 occurrences of value PL
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 68 occurrences of value HK
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 67 occurrences of value EE
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 66 occurrences of value IL
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 60 occurrences of value FR
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 56 occurrences of value ES
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 47 occurrences of value AE
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value SE
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value EG
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 38 occurrences of value RO
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 37 occurrences of value DK
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value ZA
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value BR
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 29 occurrences of value IT
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 25 occurrences of value FI
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value PK
+2023-06-09 13:37:17,417 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value LT
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value JP
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value MY
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value RU
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value QA
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 17 occurrences of value PT
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value BG
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value MX
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value SA
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value TR
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value CN
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value AT
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value UA
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 12 occurrences of value CH
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value MT
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value ID
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value HU
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 10 occurrences of value MU
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value AR
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value CY
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value KR
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value NG
+2023-06-09 13:37:17,418 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value PA
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value BH
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value IQ
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value LU
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value NO
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value KE
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value BY
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value CZ
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value TH
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value LV
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 5 occurrences of value RS
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value VN
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value NI
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TW
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TT
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value VI
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value BD
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value IS
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value TN
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value SK
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value ZM
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value AM
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value CL
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value GH
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SI
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value AL
+2023-06-09 13:37:17,419 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KZ
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value MA
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value LK
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value PE
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SD
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value CM
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value UG
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KW
+2023-06-09 13:37:17,420 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value JM
+2023-06-09 13:37:26,129 [WARNING]  Test set does not contain any ocurrences of values [CL, VI, KZ, AL, AR, SI, CM, ZM, NO, UG, VN, AM, PA, JP, TN, IS, SK, GH, MA, JM, NI, LV, SD, BD, CZ, KE, UA, PE] in column [location], consider using a more representative test set.
+2023-06-09 13:37:26,159 [INFO]  
+========== start: fit model
+2023-06-09 13:37:26,160 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:37:30,667 [INFO]  Epoch[0] Batch [0-8]	Speed: 1818.00 samples/sec	cross-entropy=3.507110	location-accuracy=0.557834
+2023-06-09 13:37:31,874 [INFO]  Epoch[0] Train-cross-entropy=2.046869
+2023-06-09 13:37:31,874 [INFO]  Epoch[0] Train-location-accuracy=0.666016
+2023-06-09 13:37:31,874 [INFO]  Epoch[0] Time cost=5.713
+2023-06-09 13:37:31,874 [INFO]  Epoch[0] Average Speed: 3408.752 samples/sec
+2023-06-09 13:37:31,891 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0000.params"
+2023-06-09 13:37:32,088 [INFO]  Epoch[0] Validation-cross-entropy=2.614008
+2023-06-09 13:37:32,089 [INFO]  Epoch[0] Validation-location-accuracy=0.530762
+2023-06-09 13:37:33,735 [INFO]  Epoch[1] Batch [0-8]	Speed: 5525.48 samples/sec	cross-entropy=1.749366	location-accuracy=0.611111
+2023-06-09 13:37:34,690 [INFO]  Epoch[1] Train-cross-entropy=1.514527
+2023-06-09 13:37:34,690 [INFO]  Epoch[1] Train-location-accuracy=0.655552
+2023-06-09 13:37:34,691 [INFO]  Epoch[1] Time cost=2.602
+2023-06-09 13:37:34,691 [INFO]  Epoch[1] Average Speed: 10360.282 samples/sec
+2023-06-09 13:37:34,707 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0001.params"
+2023-06-09 13:37:34,841 [INFO]  Epoch[1] Validation-cross-entropy=2.530517
+2023-06-09 13:37:34,841 [INFO]  Epoch[1] Validation-location-accuracy=0.538574
+2023-06-09 13:37:34,841 [INFO]  
+========== done (8.681870460510254 s) fit model
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 71 occurrences of value SG
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 70 occurrences of value PL
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 68 occurrences of value HK
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 67 occurrences of value EE
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 66 occurrences of value IL
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 60 occurrences of value FR
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 56 occurrences of value ES
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 47 occurrences of value AE
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value SE
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 45 occurrences of value EG
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 38 occurrences of value RO
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 37 occurrences of value DK
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value ZA
+2023-06-09 13:49:36,500 [INFO]  CategoricalEncoder for column location                                found only 34 occurrences of value BR
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 29 occurrences of value IT
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 25 occurrences of value FI
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value PK
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 22 occurrences of value LT
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value JP
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 20 occurrences of value MY
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value RU
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 18 occurrences of value QA
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 17 occurrences of value PT
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value BG
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 16 occurrences of value MX
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value SA
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 14 occurrences of value TR
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value CN
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value AT
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 13 occurrences of value UA
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 12 occurrences of value CH
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value MT
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value ID
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 11 occurrences of value HU
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 10 occurrences of value MU
+2023-06-09 13:49:36,501 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value AR
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value CY
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value KR
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value NG
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 9 occurrences of value PA
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value BH
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value IQ
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value LU
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 8 occurrences of value NO
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value KE
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 7 occurrences of value BY
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value CZ
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value TH
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 6 occurrences of value LV
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 5 occurrences of value RS
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value VN
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 4 occurrences of value NI
+2023-06-09 13:49:36,502 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TW
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value TT
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 3 occurrences of value VI
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value BD
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value IS
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value TN
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value SK
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value ZM
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value AM
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 2 occurrences of value CL
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value GH
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SI
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value AL
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KZ
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value MA
+2023-06-09 13:49:36,503 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value LK
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value PE
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value SD
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value CM
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value UG
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value KW
+2023-06-09 13:49:36,504 [INFO]  CategoricalEncoder for column location                                found only 1 occurrences of value JM
+2023-06-09 13:49:45,142 [WARNING]  Test set does not contain any ocurrences of values [NO, VN, UA, CZ, UG, TN, SD, KE, LV, GH, CL, BD, NI, SK, KZ, AM, AL, PE, JM, JP, SI, IS, CM, VI, ZM, PA, MA, AR] in column [location], consider using a more representative test set.
+2023-06-09 13:49:45,735 [INFO]  
+========== start: fit model
+2023-06-09 13:49:45,735 [WARNING]  Already bound, ignoring bind()
+2023-06-09 13:49:49,848 [INFO]  Epoch[0] Batch [0-8]	Speed: 1991.82 samples/sec	cross-entropy=3.506621	location-accuracy=0.557726
+2023-06-09 13:49:51,110 [INFO]  Epoch[0] Train-cross-entropy=2.045672
+2023-06-09 13:49:51,111 [INFO]  Epoch[0] Train-location-accuracy=0.666016
+2023-06-09 13:49:51,111 [INFO]  Epoch[0] Time cost=5.375
+2023-06-09 13:49:51,111 [INFO]  Epoch[0] Average Speed: 3734.659 samples/sec
+2023-06-09 13:49:51,126 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0000.params"
+2023-06-09 13:49:51,348 [INFO]  Epoch[0] Validation-cross-entropy=2.612863
+2023-06-09 13:49:51,349 [INFO]  Epoch[0] Validation-location-accuracy=0.530273
+2023-06-09 13:49:52,914 [INFO]  Epoch[1] Batch [0-8]	Speed: 5861.68 samples/sec	cross-entropy=1.748460	location-accuracy=0.611328
+2023-06-09 13:49:54,210 [INFO]  Epoch[1] Train-cross-entropy=1.513310
+2023-06-09 13:49:54,210 [INFO]  Epoch[1] Train-location-accuracy=0.655692
+2023-06-09 13:49:54,210 [INFO]  Epoch[1] Time cost=2.862
+2023-06-09 13:49:54,210 [INFO]  Epoch[1] Average Speed: 10990.650 samples/sec
+2023-06-09 13:49:54,225 [INFO]  Saved checkpoint to "/root/datawig/imputer/debug/words/chained/location/model-0001.params"
+2023-06-09 13:49:54,406 [INFO]  Epoch[1] Validation-cross-entropy=2.528910
+2023-06-09 13:49:54,406 [INFO]  Epoch[1] Validation-location-accuracy=0.538574
+2023-06-09 13:49:54,406 [INFO]  
+========== done (8.671065330505371 s) fit model
