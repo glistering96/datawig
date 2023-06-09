@@ -151,7 +151,7 @@ def evaluate_model_outputs_single_attribute(true, predicted, topMisclassificatio
 
     model_metrics = dict()
 
-    model_metrics['class_counts'] = [(a, int(b)) for a, b in labels.iteritems()]
+    model_metrics['class_counts'] = [(a, int(b)) for a, b in labels.items()]
 
     # computes statistics not weighted by class frequency
     model_metrics['avg_precision'] = precision_score(true, predicted, average='macro')
@@ -179,6 +179,7 @@ def evaluate_model_outputs_single_attribute(true, predicted, topMisclassificatio
     pred_name = "pred"
     groups = pd.DataFrame(list(zip(true, predicted)), columns=[true_name, pred_name]).groupby(true_name)
     model_metrics['confusion_matrix'] = []
+    
     for label in labels.index.tolist():
         confusion_matrix_series = groups.get_group(label)[pred_name].value_counts()[:topMisclassifications]
         confusion_matrix = list(zip(confusion_matrix_series.index.tolist(), map(int, confusion_matrix_series.tolist())))

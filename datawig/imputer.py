@@ -508,7 +508,7 @@ class Imputer:
                     num_epoch=num_epochs,
                     initializer=mx.init.Xavier(factor_type="in", magnitude=2.34),
                     optimizer='adam',
-                    optimizer_params=(('learning_rate', learning_rate), ('wd', weight_decay)),
+                    optimizer_params={'learning_rate': learning_rate, 'wd': weight_decay},
                     batch_end_callback=[mx.callback.Speedometer(iter_train.batch_size,
                                                                 int(np.ceil(
                                                                     iter_train.df_iterator.data[0][1].shape[0] /
